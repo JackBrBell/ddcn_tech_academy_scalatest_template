@@ -1,5 +1,8 @@
-object Hello extends App {
+object CrossOver extends App {
 
-  def greet : String = "hello"
+  def chrom (chromo1:String, chromo2: String, index: Int): List[String]={
+    val a: List[String] = List("1","0")
+    a
+  }
 
 }
